@@ -8,6 +8,7 @@ Este projeto utiliza a The Dog API para fornecer imagens aleatórias de cães.
 
 **Nome da API:** The Dog API  
 **URL da API:** [https://api.thedogapi.com/ ](https://www.thedogapi.com/)
+
 **Documentação:** [The Dog API Docs](https://thedogapi.com/docs)
 
 **Dependências:**
