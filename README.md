@@ -1,23 +1,15 @@
 # BearerToken
 
-# GitHub API com Express
+# The Dog API Example
 
-Este projeto demonstra como acessar a API do GitHub utilizando o Express e o token de acesso pessoal.
+Este projeto utiliza a The Dog API para fornecer imagens aleatórias de cães.
 
-## Nome da API
-GitHub API
+## API
 
-## URL da API
-https://api.github.com
+**Nome da API:** The Dog API  
+**URL da API:** https://api.thedogapi.com/v1/images/search  
+**Documentação:** [The Dog API Docs](https://thedogapi.com/docs)
 
-## Documentação
-[GitHub API Docs](https://docs.github.com/en/rest)
-
-## Requisitos
-
-- Node.js
-- NPM (ou Yarn)
-
-## Instalação
+**Dependências:**
    ```bash
    npm install express cors
